@@ -1,3 +1,4 @@
+![Company Logo](https://chartstechnologies.com/assets/img/charts_logo_footer.png)
 # Welcome to **Charts Technologies** 🚀
 
 ## About Us 💡
